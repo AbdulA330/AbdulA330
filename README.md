@@ -1,12 +1,12 @@
 ![](https://github.com/nomadicafrican/nomadicafrican/blob/master/images/istockphoto-1040643480-170667a.jpeg?raw=true)
 
 ## Hello Folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Ammar Ali. I am a full-stack developer based in Toronto, Ontario.
-The reason I love coding is because I have a passion for problem solving. I like the fact that I can think code and make it a reality. In my free time I like exploring, going to parks and museams.
+My name is Abdulhakim Ali. I am a full-stack developer based in Toronto, Ontario.
+The reason I love coding is because I have a passion for problem-solving. I like the fact that I can think of code and make it a reality. In my free time, I like exploring, and going to parks and museums.
 
-Having graduated from Lighthouse Labs Bootcamp I am currently looking to hone my skills, as well as gain experiance within the field.
+Having graduated from Lighthouse Labs Bootcamp I am currently looking to hone my skills, as well as gain experience within the field.
 
-Currently I am working on a Instagram clone, and after that I would like to try and make an Amazon or Reddit clone as well.
+Currently, I am working on an Instagram clone, and after that, I would like to try and make an Amazon or Reddit clone as well.
 
 <br/>
 
@@ -44,14 +44,14 @@ Currently I am working on a Instagram clone, and after that I would like to try 
 ## Projects
 
 [<h2>Crypto Vault</h2>](https://github.com/nomadicafrican/final_project)
-An App where users can post blogs, read articles and research about crypto by looking at the market
+An App where users can post blogs read articles, and research crypto by looking at the market
 
 <b>Technology used:</b> React, JQuery, Material UI, Redux, Axios, Express, Multer, MongoDb, React-dom
     
    
 [<h2>Scheduler</h2>](https://github.com/nomadicafrican/scheduler)
 
-Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book in appointment with a mentor. Appointments can be easily edited and updated, or cancelled through the app by clicking the icons in the bottom left hand corner of a booked interview timeslot.
+Interview Scheduler is a single-page application that allows a student to choose a day, a time, and an interviewer to book in appointment with a mentor. Appointments can be easily edited and updated, or canceled through the app by clicking the icons in the bottom left-hand corner of a booked interview timeslot.
 
 <b>Technology used:</b> JS, React, HTML, SCSS, Axios, Storybook, Jest
 
@@ -61,7 +61,7 @@ Interview Scheduler is a single-page application that allows a student to choose
 
 PasswordKeeper is a storage for all passwords. An authorized user can access all the passwords created by other users and a user can also generate a new password for a specific account (just like LastPass).
 
-<b>Technology used:</b> JS, HTML, CSS, Bootstrap, SQL, Express, cookie-session, bcrypt
+<b>Technology used:</b> JS, HTML, CSS, Bootstrap, SQL, Express, cookie-session, crypt
 
 <br/>
 
